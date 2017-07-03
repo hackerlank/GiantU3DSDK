@@ -102,22 +102,20 @@ public class GiantSDK {
 		return ((ZTLibGiant)IZTLibBase.getInstance()).isRefererSetted();
 	}
 	
-	public static void setReferer(final String referer){
-		Log.d(TAG, "   setReferer  " + referer );
-		getU3DContext().runOnUiThread(new Runnable() {
-			
-			@Override
-			public void run() {
-				
-				((ZTLibGiant)IZTLibBase.getInstance()).setReferer(referer);
-			}
-			});
-	}
 	public static String getAuthCode(){
 		Log.d(TAG, "   getAuthCode  " );
 		return ((ZTLibGiant)IZTLibBase.getInstance()).getAuthCode();
 	}
+	public static boolean doSet(String paramStr)
+	{
+		Log.d(TAG, "   doset  " );
+		return ((ZTLibGiant)IZTLibBase.getInstance()).doSet(paramStr);
+	}
 	
+	public static String doGet(String key)
+	{
+		return "";
+	}
 	 
 	public static void pay(final String zoneId, final String productId,final String productName,final int money,
 			final int exchangeRatio,final String extra){
