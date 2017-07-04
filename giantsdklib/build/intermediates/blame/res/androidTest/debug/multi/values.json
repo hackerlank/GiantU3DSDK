@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 42,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 42,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 40,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 40,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 49,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 49,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 680
+                    }
+                }
+            }
+        ]
+    }
+]

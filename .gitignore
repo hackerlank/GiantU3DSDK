@@ -1,1 +1,5 @@
 bin/
+/app/build 
+/build
+/giantsdklib/build 
+

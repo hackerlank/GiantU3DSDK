@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/app/build/intermediates/res/merged/debug/layout/useravatar.xml",
+        "source": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/app/src/main/res/layout/useravatar.xml"
+    },
+    {
+        "merged": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/app/src/main/res/layout/activity_main.xml"
+    }
+]
