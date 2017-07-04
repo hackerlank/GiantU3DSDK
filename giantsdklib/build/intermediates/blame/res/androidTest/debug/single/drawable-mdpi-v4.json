@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
-        "source": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+        "merged": "/Users/frankpan/Works/GiantU3DSDK/giantsdklib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/buttonshape.xml",
+        "source": "/Users/frankpan/Works/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/buttonshape.xml"
     },
     {
-        "merged": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/buttonshape.xml",
-        "source": "/Users/frankpan/AndroidStudioProjects/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/buttonshape.xml"
+        "merged": "/Users/frankpan/Works/GiantU3DSDK/giantsdklib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/frankpan/Works/GiantU3DSDK/giantsdklib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
     }
 ]

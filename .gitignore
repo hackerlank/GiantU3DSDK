@@ -1,5 +1,7 @@
 bin/
-/app/build 
-/build
+/app/build/ 
+/build/
 /giantsdklib/build 
+/.gradle/
+/.idea/
 
