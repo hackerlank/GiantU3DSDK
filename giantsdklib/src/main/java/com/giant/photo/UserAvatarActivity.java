@@ -188,7 +188,7 @@ public class UserAvatarActivity extends Activity
         }
         
         // 保存头像图片  
-        if (requestCode == CommonUtil.ENUM_RESULT.eResult_Success.ordinal()) 
+        if (null!=data && requestCode == CommonUtil.ENUM_RESULT.eResult_Success.ordinal())
         {  
         	Bundle extras = data.getExtras();  
             if (null != extras) 
